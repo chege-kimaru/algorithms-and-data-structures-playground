@@ -1,4 +1,6 @@
-public class Main {
+package recursion;
+
+public class TowersOfHanoi {
     public static void main(String[] args) {
         TOH(3, 'A', 'B', 'C');
     }
